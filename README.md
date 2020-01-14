@@ -1,4 +1,3 @@
 # 2020-brainhack
-Resources for the 2020 brainhack
-
-[Photos from the 2019 Brainhack](https://www.dropbox.com/sh/g5slaqla2gc7s48/AAAcURdfylgn0hpl6Bp5MQIea?dl=0)
+Forking the 2020 brain hack as a template to get the ISBI hackathon organized. 
+Trello board: https://trello.com/b/T4UBVlq4/isbi-hackathon-organization
